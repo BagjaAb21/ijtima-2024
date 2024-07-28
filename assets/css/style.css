@@ -991,40 +991,47 @@
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-size: 18px;
-  color: black;
+  color: white;
   padding-left: 10px;
 }
 
 .clock-list:nth-child(1) .bgLayer .topLayer {
-  background-color: black;
+  background-color: #fd3d6b;
 }
 
 .clock-list:nth-child(2) .bgLayer .topLayer {
-  background-color: black;
+  background-color: #fd3d6b;
 }
 
 .clock-list:nth-child(3) .bgLayer .topLayer {
-  background-color: black;
+  background-color: #fd3d6b;
 }
 
 .clock-list:nth-child(4) .bgLayer .topLayer {
-  background-color: black;
+  background-color: #fd3d6b;
 }
 
 .clock-list:nth-child(1) .text .val {
-  color: black;
+  color: white;
 }
 
 .clock-list:nth-child(2) .text .val {
-  color: black;
+  color: white;
 }
 
 .clock-list:nth-child(3) .text .val {
-  color: black;
+  color: white;
 }
 
 .clock-list:nth-child(4) .text .val {
-  color: black;
+  color: white;
+}
+
+.img-margin1 {
+  margin-left: 1.5rem;
+}
+.img-margin2 {
+  margin-left: 0.8rem;
 }
 
 .banner-df {
